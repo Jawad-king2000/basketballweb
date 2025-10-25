@@ -1,0 +1,297 @@
+
+/*
+.red{
+    margin-top: 10px;
+    height: 100px;
+    background: red;
+    
+}
+.blue{
+background: blue;
+height: 100px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+.green{
+ background: green;
+ height: 100px;
+}
+ */
+ /*.card{
+    width: 400px;
+    display: block;
+    color: rgb(20, 20, 20);
+    background: lightgray;
+    margin-top: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 60px;
+
+ }*/
+ /*.btn-wrapper{
+    display: flex;
+    justify-content: center;
+ }
+
+ .btn{
+    margin-top: 20px;
+    width: 130px;
+    padding: 20px;
+    background: lightgray;
+    color: royalblue;
+    border: 2px solid royalblue ;
+    border-radius: 14px;
+    font-weight: bold;
+    margin-right: 10px;
+    
+    
+    
+ }*/
+ 
+ /*.nav-warpper{
+    display: flex;
+    justify-content: space-around;
+ }
+
+ .item{
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+ }*/
+
+
+
+
+ /*body{
+   margin: 15px;
+ }
+ img{
+   width: 250px;
+   height: 150px;
+   
+ }
+
+ .business-card{
+   width: 800px;
+   height: 200px;
+   display: flex;
+   margin: 0 auto;
+   background: rgb(243, 131, 131);
+   justify-content: space-around;
+   padding: 15px;
+   border-bottom: 2px solid grey;
+   border-radius: 12px;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+ }
+ */
+
+ /*body{
+   margin:30px;
+   background-image: url('birthday.webp');
+   background-size: cover;
+   
+ }
+ .birthday-card{
+  color: rgb(235, 238, 238);
+  font-family: "BBH Sans Hegarty", sans-serif;
+  text-align: center;
+  text-shadow: 0px 0px 5px black;
+   width: 700px;
+   background: rgb(10, 36, 94);
+   margin-left: auto;
+   margin-right: auto;
+   padding: 10px 0px;
+ }
+ #birthday-img{
+   width: 200px;
+   height: 200px;
+   border-radius: 50%;
+ }
+ /* gift card project*/
+ /*.gift-card{
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  background: red;
+  padding: 10px 15px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+ }
+ .gift-h1{
+
+  font-family:"BBH Sans Hegarty", sans-serif;
+  background-color: black;
+  padding: 10px 15px;
+  border-radius: 10px;
+  
+  
+  
+  
+ }
+ .gift-h2{
+  font-family:"BBH Sans Hegarty", sans-serif;
+  background-color: black;
+  padding: 10px 15px;
+  border-radius: 10px;
+  
+  
+  }
+
+ .gift-img{
+  width: 400px;
+ }*/
+ body{
+  text-align: center;
+  margin:15px;
+  
+ }
+ /*.university-header{
+  width: 100%;
+  height: 260px;
+  background-image: url(univercity.webp);
+  background-size: cover;
+  padding: 18px 10px;
+  color: wheat;
+  text-shadow: 0 0 5px black;
+
+ }
+ .university-link a{
+  text-decoration: none ;
+   color: wheat;
+  text-shadow: 0 0 5px black;
+
+ }
+ .activites-container{
+  display: flex;
+  justify-content: space-around;
+  
+ }
+ 
+ .activites-container img{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  
+ }
+ .one-activites{
+  padding: 15px 10px;
+  background: linear-gradient(skyblue,lightgray);
+  margin: 0 10px;
+  border-radius: 7px;
+ }
+ .two-activites{
+  padding: 15px 10px;
+  background: linear-gradient(skyblue,lightgray);
+    margin: 0 10px;
+    border-radius: 7px;
+ }
+ .three-activites{
+  padding: 15px 10px;
+  background: linear-gradient(skyblue,lightgray);
+    margin: 0 10px;
+    border-radius: 7px;
+ }
+
+ .guide{
+  width: 400px;
+  background: linear-gradient(skyblue,lightgray);
+  margin: 20px auto;
+  padding: 15px 10px;
+  display: flex;
+  
+ }
+ #guide-title{
+  font-size:17px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ 
+ .guide img{
+  width: 200px;
+  height: 300px;
+  margin:auto 10px;
+  
+
+  }
+  */
+
+
+  /*.trafic{
+  width: 400px;
+  height: 500px;
+  background: linear-gradient(blue,lightgray);
+  margin:20px auto;
+  padding:15px 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  }
+  .increment-classe{
+    width: 100px;
+    height: 50px;
+    background: red;
+    margin: 10px auto;
+    color: wheat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 8px;
+  }
+  .save-classe{
+      width: 100px;
+    height: 50px;
+    background: red;
+    margin: 6px auto;
+    color: wheat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 8px
+  }*/
+
+
+  .container{
+    width: 80%;
+    margin: 10px auto;
+    background-color: rgb(31, 31, 114);
+    padding: 40px 20px;
+    display: flex;
+    justify-content: space-around;
+  }
+  .parent-home h2{
+    color: white;
+    font-size: 30px;
+  }
+  .parent-guest h2{
+    color: white;
+    font-size: 30px;
+  }
+  .tablue{
+    width: 300px;
+    height: 250px;
+    background-color: black;
+    color: red;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+  }
+   button{
+    margin: 0px 10px;
+    width: 50px;
+    height: 50px;
+    background: none;
+    border: 1px white solid;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+    border-radius: 7px;
+
+  }
+  
